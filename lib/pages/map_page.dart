@@ -16,7 +16,7 @@
 //         iconTheme: IconThemeData(color: Colors.black),
 //       ),
 //       body: MapboxMap(
-//         accessToken: 'sk.eyJ1IjoiaGV0YWwxMjMiLCJhIjoiY2xzdDk2dWtjMTN3azJscWllZDE3bmJnZiJ9.nbb18M_CEOEtMK9RnAZLRg',
+//         accessToken: '',
 //         styleString: 'mapbox://styles/mapbox/streets-v11',
 //         initialCameraPosition: CameraPosition(
 //           target: LatLng(19.0760, 72.8777), // Center of India
