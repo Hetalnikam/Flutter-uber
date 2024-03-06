@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209858281681",
+    "project_id": "uber-fdecb",
+    "storage_bucket": "uber-fdecb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209858281681:android:bb003f00246a3aeccb85f0",
+        "android_client_info": {
+          "package_name": "com.hetal.uberpractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6AaO-zoMGQ6v_WjoBZqVpfE24A8DyxTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
